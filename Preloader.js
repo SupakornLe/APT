@@ -37,5 +37,3 @@ Game.Preloader.prototype = {
         this.state.start('Level1');
     }
 }
-
-//GitHub
